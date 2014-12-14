@@ -1,0 +1,23 @@
+#include system.io
+#include ..........
+
+private void main(){
+	Databasedatacontect _db= new Databasedatacontect;
+	int x =0; int y=0;int z=0;
+	clearboth();
+	speeding();
+	clone();
+	upercase();
+	runforever();																						
+}
+privare void clearboth(){
+	clear:both;
+}
+
+private void speeding(){
+ // day la code cua speeding ;
+}
+
+private void clone(){
+// day la code cua phan clone;
+}
